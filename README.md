@@ -1,9 +1,11 @@
 # Travel-Booking-Management-System-Using-SQL
 
 Introduction
+
 Welcome to the Travel Booking Management System! In today's fast-paced world of travel, efficient booking management is essential for ensuring smooth journeys and satisfied customers. Our system is designed to address the complexities of the travel industry by providing a comprehensive solution for booking various modes of transportation.
 
 Database Components
+
 Customer Management: Comprehensive records of customers, including personal details and preferred modes of travel.
 Employee Management: Database for storing employee information, such as roles, departments, and salaries.
 Destination Information: Repository of destination details, including names, distances, and countries, essential for planning travel routes and itineraries.
@@ -14,4 +16,5 @@ Implementation
 Our system is built on a robust relational database, featuring tables for customer details, employee information, destinations, transportation options, payment records, and bookings. SQL queries are used to efficiently retrieve, manipulate, and analyze data, providing a seamless booking experience for users.
 
 Conclusion
+
 With the Travel Booking Management System, users can effortlessly plan adventures, book transportation, and manage bookings from a single platform. By leveraging the power of data and technology, we're revolutionizing the way travelers navigate the world, making their journeys smoother, more enjoyable, and truly unforgettable.
